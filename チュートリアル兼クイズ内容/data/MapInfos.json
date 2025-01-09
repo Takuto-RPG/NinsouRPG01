@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":false,"name":"フィールドマップ","order":1,"parentId":0,"scrollX":421,"scrollY":645},
+{"id":2,"expanded":true,"name":"普通の町","order":2,"parentId":0,"scrollX":1503,"scrollY":1283},
+{"id":3,"expanded":false,"name":"岩の洞窟","order":4,"parentId":0,"scrollX":505,"scrollY":764},
+{"id":4,"expanded":false,"name":"宿屋1F","order":3,"parentId":2,"scrollX":587,"scrollY":637},
+{"id":5,"expanded":true,"name":"エンディング用","order":5,"parentId":0,"scrollX":421,"scrollY":645},
+{"id":6,"expanded":false,"name":"研究室クイズ","order":6,"parentId":5,"scrollX":421,"scrollY":645}
+]

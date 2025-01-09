@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":false,"name":"エンディング","order":9,"parentId":9,"scrollX":1169.4545454545455,"scrollY":799.6363636363636},
+{"id":2,"expanded":false,"name":"普通の町","order":10,"parentId":0,"scrollX":1448,"scrollY":996},
+null,
+null,
+null,
+null,
+{"id":7,"expanded":false,"name":"くそゲー","order":1,"parentId":0,"scrollX":1448,"scrollY":996},
+{"id":8,"expanded":false,"name":"空中神殿","order":2,"parentId":7,"scrollX":1169.4545454545455,"scrollY":780},
+{"id":9,"expanded":true,"name":"山村ゲーム","order":3,"parentId":0,"scrollX":1152,"scrollY":1020},
+{"id":10,"expanded":false,"name":"民家1","order":4,"parentId":9,"scrollX":1169.4545454545455,"scrollY":799.6363636363636},
+{"id":11,"expanded":false,"name":"民家2","order":5,"parentId":9,"scrollX":1169.4545454545455,"scrollY":799.6363636363636},
+{"id":12,"expanded":false,"name":"お屋敷","order":6,"parentId":9,"scrollX":1152,"scrollY":913.0909090909091},
+{"id":13,"expanded":false,"name":"村の民家1F","order":7,"parentId":9,"scrollX":1169.4545454545455,"scrollY":799.6363636363636},
+{"id":14,"expanded":false,"name":"村の民家2F","order":8,"parentId":9,"scrollX":1169.4545454545455,"scrollY":799.6363636363636}
+]

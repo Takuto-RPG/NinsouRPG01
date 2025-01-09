@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Main Map","order":1,"parentId":0,"scrollX":1386.8571428571427,"scrollY":750.8571428571428},
+{"id":2,"expanded":false,"name":"Takadas Labo","order":11,"parentId":0,"scrollX":719.1111111111111,"scrollY":389.3333333333333},
+{"id":3,"expanded":false,"name":"Mitomas Labo","order":2,"parentId":0,"scrollX":712,"scrollY":570.6666666666666},
+{"id":4,"expanded":false,"name":"Dans Labo","order":5,"parentId":0,"scrollX":1747.6363636363637,"scrollY":964.3636363636364},
+null,
+{"id":6,"expanded":false,"name":"Hotes Labo","order":12,"parentId":0,"scrollX":1386.8571428571427,"scrollY":750.8571428571428},
+{"id":7,"expanded":false,"name":"Takeuchis Lab","order":3,"parentId":0,"scrollX":1256,"scrollY":964.4444444444445},
+null,
+{"id":9,"expanded":false,"name":"Yamamuras Labo","order":4,"parentId":0,"scrollX":1747.6363636363637,"scrollY":964.3636363636364},
+{"id":10,"expanded":false,"name":"Plant Tree","order":6,"parentId":0,"scrollX":1765.0909090909092,"scrollY":955.6363636363636},
+{"id":11,"expanded":false,"name":"Tree Game","order":7,"parentId":0,"scrollX":1721.7777777777778,"scrollY":1341.3333333333333},
+{"id":12,"expanded":false,"name":"Classroom","order":8,"parentId":0,"scrollX":719.1111111111111,"scrollY":389.3333333333333},
+{"id":13,"expanded":false,"name":"Hallway","order":9,"parentId":0,"scrollX":719.1111111111111,"scrollY":389.3333333333333},
+{"id":14,"expanded":false,"name":"Teachers room","order":10,"parentId":0,"scrollX":719.1111111111111,"scrollY":389.3333333333333},
+{"id":15,"expanded":false,"name":"Harada","order":14,"parentId":0,"scrollX":712,"scrollY":570.6666666666666},
+{"id":16,"expanded":false,"name":"Komines Labo","order":13,"parentId":0,"scrollX":1386.8571428571427,"scrollY":750.8571428571428}
+]

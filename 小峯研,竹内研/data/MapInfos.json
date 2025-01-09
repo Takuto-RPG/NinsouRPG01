@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1614,"scrollY":866},
+{"id":2,"expanded":true,"name":"お屋敷","order":2,"parentId":1,"scrollX":1614,"scrollY":866},
+{"id":3,"expanded":true,"name":"コンピュータールーム","order":5,"parentId":1,"scrollX":893.4545454545455,"scrollY":479.4545454545455},
+{"id":4,"expanded":true,"name":"小峯研","order":3,"parentId":1,"scrollX":1584,"scrollY":1075.5},
+{"id":5,"expanded":false,"name":"MAP005","order":4,"parentId":4,"scrollX":1629,"scrollY":1120.5},
+null,
+{"id":7,"expanded":false,"name":"コンピュータールーム","order":6,"parentId":3,"scrollX":1184.7272727272727,"scrollY":814.909090909091}
+]
